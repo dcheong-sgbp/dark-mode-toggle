@@ -1,0 +1,8 @@
+site_name: Dark Mode Toggle
+site_description: Live dark/light toggle demo plus a copy-ready CSS-variables + JS snippet.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
