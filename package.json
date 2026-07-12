@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/dark-mode-toggle",
+  "version": "1.0.0",
+  "description": "Live dark/light toggle demo plus a copy-ready CSS-variables + JS snippet. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "dark-mode-toggle.js",
+  "unpkg": "dark-mode-toggle.js",
+  "files": ["dark-mode-toggle.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "dark mode toggle", "dark mode button", "dark theme switch"],
+  "homepage": "https://sgbp.tech/tools/dark-mode-toggle",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
